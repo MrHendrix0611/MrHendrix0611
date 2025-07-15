@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/?size=100&id=XbcLokhpVq3o&format=png&color=000000" align="center" width="60px" height="60px">
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" align="center" width="60px" height="60px">
   <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" align="center" width="60px" height="60px">
-  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png" align="center" width="60px" height="60px">
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" align="center" width="60px" height="60px">
   <img src="https://img.icons8.com/?size=100&id=55O6KKA9CyIA&format=png&color=000000" align="center" width="60px" height="60px">
 </div>
