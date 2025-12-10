@@ -14,8 +14,8 @@
 <!-- PAINEL DE STATUS -->
 
 <div>
-  <img height="140em" src="https://github-readme-stats-git-master-orgs-community.vercel.app/api?username=MrHendrix0611&show_icons=true&theme=dracula">
-  <img height="140em" src="https://github-readme-stats-git-master-orgs-community.vercel.app/api/top-langs/?username=MrHendrix0611&layout=compact&langs_count=16&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=MrHendrix0611&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MrHendrix0611&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <!-- HABILIDADES -->
