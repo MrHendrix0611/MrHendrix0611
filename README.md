@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img src="Thumbnail.png" width="1280px">
 </div>
@@ -85,4 +84,4 @@ Script para organização inteligente de arquivos e pastas utilizando Python.
 ### 🚀 "Código é ferramenta. Solução é propósito."
 
 </div>
-```
+
