@@ -4,15 +4,22 @@
 
 # 👋 Olá, eu sou Guilherme Hendrik
 
-💻 Desenvolvedor Full Stack Jr com foco em automação de processos, APIs e desenvolvimento de soluções utilizando Python e JavaScript.
+💻 Arquiteto de IA e Produto, desenvolvendo soluções com Inteligência Artificial para empresas. Eu transformo "problemas" em "produtos" 🚀
 
-Atualmente estudo e desenvolvo projetos voltados para:
-- 🔹 Automação de tarefas
-- 🔹 Integração de APIs REST
-- 🔹 Web Scraping
-- 🔹 Desenvolvimento Web
-- 🔹 Relatórios automatizados
-- 🔹 Bots e scripts em Python
+Atualmente atuo com:
+- 🔹 Automação de Tarefas com IA
+- 🔹 Análise e Tratamento de Dados com Python
+- 🔹 Arquitetura e Planejamento de Projetos de Software (Context Plane)
+- 🔹 Integração e Consumo de APIs
+- 🔹 SDD (Desenvolvimento Orientado a Especificações)
+- 🔹 TDD (Desenvolvimento Orientado a Testes)
+- 🔹 Desenvolvimento Ágil com Scrum
+- 🔹 Inovação e Gestão de Projetos
+
+Estou me profissionalizando em:
+- 🔸 Herness Enginnering
+- 🔸 Ciências de Dados
+- 🔸 Cybersegurança e IA
 
 ---
 
