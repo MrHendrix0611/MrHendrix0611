@@ -27,18 +27,19 @@ Estou me profissionalizando em:
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/96/python--v1.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/pandas.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/numpy.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/flask.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/postgreesql.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/mysql-logo.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/microsoft-azure.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/api.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/git.png" width="55px"/>
-<img src="https://img.icons8.com/ios-filled/100/github.png" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55px"/>
 
 </div>
 
