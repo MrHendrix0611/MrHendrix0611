@@ -27,14 +27,33 @@ Estou me profissionalizando em:
 
 <div align="center">
 
+### 🧠 Inteligência Artificial & Dados
+
 <img src="https://img.icons8.com/color/96/python--v1.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/javascript--v1.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/nodejs.png" width="55px"/>
-<img src="https://img.icons8.com/fluency/96/php.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/pandas.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/numpy.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/microsoft-azure.png" width="55px"/>
+
+<br><br>
+
+### ⚙️ Desenvolvimento & APIs
+
 <img src="https://img.icons8.com/color/96/flask.png" width="55px"/>
-<img src="https://img.icons8.com/color/96/mysql-logo.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/api.png" width="55px"/>
+
+<br><br>
+
+### 🗄️ Dados & Infraestrutura
+
+<img src="https://img.icons8.com/color/96/postgreesql.png" width="55px"/>
 <img src="https://img.icons8.com/color/96/git.png" width="55px"/>
 <img src="https://img.icons8.com/ios-filled/100/github.png" width="55px"/>
+
+<br><br>
+
+### 🧪 Automação & Qualidade
+
 <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55px"/>
 
 </div>
